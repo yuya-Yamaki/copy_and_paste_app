@@ -12,5 +12,3 @@ then, with right-click, you can change tab name to whatever you want.
 
 If you left-click on the list with the tab selected, its contents will be copied.
 If you right-click, you can change the contents.
-
-参考URL:https://www.youtube.com/watch?v=duYrASAFyy8&list=LL_-3J5fsV9ElsmDGra55jVw&index=2&t=0s
