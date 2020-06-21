@@ -1,7 +1,8 @@
 # copy_and_paste_app
 copy and paste application
 
-how to use
+how to use:
+
 this app is consists of "tabs" and "buttons"
 
 you can register frequently used fixed phrase and copy and paste with One-click.
