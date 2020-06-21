@@ -1,0 +1,12 @@
+D:\copy_and_paste_yay4\copy_and_paste_yay4\bin\Debug\copy_and_paste_yay4.exe.config
+D:\copy_and_paste_yay4\copy_and_paste_yay4\bin\Debug\copy_and_paste_yay4.exe
+D:\copy_and_paste_yay4\copy_and_paste_yay4\bin\Debug\copy_and_paste_yay4.pdb
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.csprojAssemblyReference.cache
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.Form1.resources
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.Form2.resources
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.Form3.resources
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.Properties.Resources.resources
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.csproj.GenerateResource.cache
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.csproj.CoreCompileInputs.cache
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.exe
+D:\copy_and_paste_yay4\copy_and_paste_yay4\obj\Debug\copy_and_paste_yay4.pdb
